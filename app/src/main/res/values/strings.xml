@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioManager</string>
+    <string name="give_permission">Give permission</string>
+    <string name="action_continue">Continue</string>
+    <string name="welcome_message">Need permission to access your files</string>
+    <string name="audio_manager">Audio Manager</string>
+</resources>
